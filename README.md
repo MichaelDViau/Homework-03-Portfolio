@@ -8,6 +8,11 @@ https://michaeldviau.github.io/Homework-03-Portfolio/
 
 ![image](https://user-images.githubusercontent.com/86207868/130339562-66392b1e-486f-4e85-aae7-dcf4da3ad0ea.png)
 
+*Note:*
+
+This is just an basic update of the original Portfolio Page that I created at the start of this class, now with the new knowledge and technology I have learn in this class, 
+I will submit the new, complete portfolio update in the new FINAL Repertory for the new Portfolio update homework
+
 *Instruction:*
 
 ## Your Task
